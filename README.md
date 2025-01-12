@@ -13,7 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -30,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.com/Tainicknackz/product-preview-card](https://github.com/Tainicknackz/product-preview-card)
+- Solution URL: [github.com/Tainicknackz/product-preview-card](https://capable-sopapillas-2e96af.netlify.app/)
 - Live Site URL: [capable-sopapillas-2e96af](https://app.netlify.com/sites/capable-sopapillas-2e96af/deploys/67836906986e40bd644d90d8)
 
 ## My process
